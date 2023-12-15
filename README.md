@@ -3,7 +3,7 @@
 Simulation-based demos Repository for the <a href="https://stellarcommunityfund.gitbook.io/module-library/">Governance Modules Library</a>.
 
 <img src="assets/cover.jpeg" style="display:block;margin-left: auto;margin-right: auto;width:60%;"/>
-<i style="font-size:0.6em; text-align:center;display: block;">An artist’s conception of the Governance Modules Library by <a href="">Viola Sellerino</a></i>
+<i style="font-size:0.6em; text-align:center;display: block;">An artist’s conception of the Governance Modules Library by <a href="https://www.instagram.com/violasel/">Viola Sellerino</a></i>
 <br>
 
 ---
